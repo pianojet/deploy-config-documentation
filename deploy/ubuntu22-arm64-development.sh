@@ -73,7 +73,6 @@ else
   sudo systemctl start postgresql.service
   sudo -u postgres psql -c "CREATE USER $DEV_USER WITH PASSWORD '$DEV_PASS';"
   sudo -u postgres psql -c "ALTER USER $DEV_USER CREATEDB;"
-  exit
 fi
 
 
