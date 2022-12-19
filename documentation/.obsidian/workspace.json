@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "750e35c868e00cb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "67fa1e3b1847bee7",
+        "type": "split",
+        "dimension": 51.77165354330708,
+        "children": [
+          {
+            "id": "3ac114567165c5b5",
+            "type": "tabs",
+            "dimension": 50.04739336492891,
+            "children": [
+              {
+                "id": "407fc63f6df4071b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "minecraft/minecraft.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "1320b7cbb1c13fd7",
+            "type": "tabs",
+            "dimension": 49.95260663507109,
+            "children": [
+              {
+                "id": "0343444a670022e0",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "7be2ea6a294f716b",
+        "type": "split",
+        "dimension": 48.22834645669291,
+        "children": [
+          {
+            "id": "beec56aaaac3d43e",
+            "type": "tabs",
+            "dimension": 50.142180094786724,
+            "children": [
+              {
+                "id": "688281d7dc34b387",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "50eb2179fc233cc4",
+            "type": "tabs",
+            "dimension": 49.85781990521327,
+            "children": [
+              {
+                "id": "2228553c4797a5df",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14de483c646b1bff",
+    "type": "split",
+    "children": [
+      {
+        "id": "53e4e3d3a6e85afd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6775616b4692d3cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aca9b1f566e00788",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d8f845d2583749f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "461c533a39fbef43",
+    "type": "split",
+    "children": [
+      {
+        "id": "25ef0098683062a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afa97d8ea8a5a15c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "minecraft/minecraft.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf2deb659da1a3bd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "minecraft/minecraft.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a62066300dad371",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "13b0ec7e5b8c6a14",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "minecraft/minecraft.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "407fc63f6df4071b",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "minecraft/minecraft.md"
+  ]
+}

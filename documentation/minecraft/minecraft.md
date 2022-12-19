@@ -48,4 +48,4 @@ Afterward, execute the /gamerule spawnRadius 0 command so every user will spawn 
 
 Note: If you want a specific block radius, then specify that with the gamerule command. The radius will be the area in blocks that players will spawn. On the other hand, instead of having a global spawn point, you can use the /spawnpoint [username] command. That will give individual players their own spawn in your world.
 
-
+asdfasdf
