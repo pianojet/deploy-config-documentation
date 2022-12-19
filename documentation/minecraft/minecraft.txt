@@ -33,5 +33,19 @@ https://tlauncher.org/en/download_1/
 ##### server
 https://www.minecraft.net/en-us/download/server
 
+## controllers via steam
+https://www.gamerevolution.com/guides/676274-how-to-play-minecraft-java-with-a-controller-pc-guide
+
+
+
+
+
+### setting spawn points
+Launch Minecraft and join your server with the IP Address:Port.
+Once in-game, head to the desired spawn location and open chat.
+Proceed to run the /setworldspawn command, which will set the spawn point for all players.
+Afterward, execute the /gamerule spawnRadius 0 command so every user will spawn on the block and not in the default radius.
+
+Note: If you want a specific block radius, then specify that with the gamerule command. The radius will be the area in blocks that players will spawn. On the other hand, instead of having a global spawn point, you can use the /spawnpoint [username] command. That will give individual players their own spawn in your world.
 
 
