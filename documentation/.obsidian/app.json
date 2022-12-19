@@ -1,4 +1,7 @@
 {
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./_attachments"
+  "attachmentFolderPath": "./_attachments",
+  "showFrontmatter": true,
+  "strictLineBreaks": true,
+  "useTab": false
 }
