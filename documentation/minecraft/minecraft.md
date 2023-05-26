@@ -51,3 +51,9 @@ Note: If you want a specific block radius, then specify that with the gamerule c
 
 ### Game Modes
 ![[Pasted image 20221219004330.png]]
+
+
+
+
+roberinski23@yahoo.com
+covBot-6hokvu-vonraz

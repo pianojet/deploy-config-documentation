@@ -6,12 +6,12 @@
       {
         "id": "67fa1e3b1847bee7",
         "type": "split",
-        "dimension": 51.77165354330708,
+        "dimension": 55.743651753325274,
         "children": [
           {
             "id": "3ac114567165c5b5",
             "type": "tabs",
-            "dimension": 50.04739336492891,
+            "dimension": 56.96682464454976,
             "children": [
               {
                 "id": "407fc63f6df4071b",
@@ -19,25 +19,42 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "minecraft/minecraft.md",
+                    "file": "reference-resource/rss.md",
                     "mode": "source",
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "c2a731756f144695",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "frontend/react-nextjs.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "1320b7cbb1c13fd7",
             "type": "tabs",
-            "dimension": 49.95260663507109,
+            "dimension": 43.03317535545024,
             "children": [
               {
                 "id": "0343444a670022e0",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "docker.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
             ]
@@ -48,7 +65,7 @@
       {
         "id": "7be2ea6a294f716b",
         "type": "split",
-        "dimension": 48.22834645669291,
+        "dimension": 44.256348246674726,
         "children": [
           {
             "id": "beec56aaaac3d43e",
@@ -59,8 +76,12 @@
                 "id": "688281d7dc34b387",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "languages/java.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
             ]
@@ -68,14 +89,18 @@
           {
             "id": "50eb2179fc233cc4",
             "type": "tabs",
-            "dimension": 49.85781990521327,
+            "dimension": 49.857819905213276,
             "children": [
               {
                 "id": "2228553c4797a5df",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "researching/frontend tech.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
             ]
@@ -105,6 +130,18 @@
             }
           },
           {
+            "id": "1fabd4a36ef4d972",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nextjs-react.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "aca9b1f566e00788",
             "type": "leaf",
             "state": {
@@ -126,12 +163,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "9b4fd1e436e786dc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 560.5
+    "width": 306.5
   },
   "right": {
     "id": "461c533a39fbef43",
@@ -147,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "minecraft/minecraft.md",
+                "file": "frontend/react-nextjs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "minecraft/minecraft.md",
+                "file": "frontend/react-nextjs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "minecraft/minecraft.md"
+                "file": "frontend/react-nextjs.md"
               }
             }
           }
@@ -198,9 +243,34 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "407fc63f6df4071b",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c2a731756f144695",
   "lastOpenFiles": [
-    "Untitled.md",
-    "minecraft/minecraft.md"
+    "reference-resource/rss.md",
+    "researching/frontend tech.md",
+    "docker.md",
+    "languages/rust.md",
+    "languages/java.md",
+    "languages/bash.md",
+    "frontend/react-nextjs.md",
+    "nextjs-react.md",
+    "frontend",
+    "utm.md",
+    "utm-setup-commands-history.md",
+    "images/Untitled.md",
+    "ssh_help.md",
+    "scratch.md",
+    "vue.md",
+    "minecraft/minecraft.md",
+    "minecraft/_attachments/Pasted image 20221219004330.png"
   ]
 }

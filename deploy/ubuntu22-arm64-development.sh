@@ -98,13 +98,13 @@ which nvm
 if [ $? -eq 0 ]; then
   echo "NVM NODE NPM ALREADY INSTALLED"
 else
-  sudo -u dev curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
-  sudo -u dev /etc/profile.d/nvm.sh
+  sudo -u "$DEV_USER" curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
+  sudo -u "$DEV_USER" /etc/profile.d/nvm.sh
   # export NVM_DIR="$HOME/.nvm"`
   # [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
   # [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion`
   # sudo -u dev source ~/.nvm/nvm.sh
-  sudo -u dev nvm install 18.10.0
+  sudo -u "$DEV_USER" nvm install 18.10.0
 fi
 
 

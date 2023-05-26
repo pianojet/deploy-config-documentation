@@ -30,3 +30,8 @@ mkdir /dfs
 
 
 
+sed -i 's/http:\/\/archive.ubuntu.com/http:\/\/us.archive.ubuntu.com/' /etc/apt/sources.list
+
+
+
+
